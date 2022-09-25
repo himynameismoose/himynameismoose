@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Currently working on: Bob's Burgers GraphQL
+### Currently working on: Bob's Burgers GraphQL
 
-#Currently learning Full-Stack Java Web Development
+### Currently learning Full-Stack Java Web Development
 
 <!--![mershelle](https://user-images.githubusercontent.com/32172992/187537718-e71d96d3-a56b-4663-b5ca-cf80fd72d5cd.png)-->
