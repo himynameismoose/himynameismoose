@@ -1,63 +1,75 @@
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/32172992/187537718-e71d96d3-a56b-4663-b5ca-cf80fd72d5cd.png" width="160"/>
-  
-  <h1>Howzit, I'm Mershelle! 🤙🏽</h1>
-  <h3>Java Full-Stack Developer | Crafting Clean Code & Balanced Architectures</h3>
-  <p>📍 Based in Seattle, WA</p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32172992/187537718-e71d96d3-a56b-4663-b5ca-cf80fd72d5cd.png" width="200"/>
+</p>
 
-  <a href="https://linkedin.com/in/mershelle" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/himynameismoose" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:mershellemae@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/mershelle">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mershellemae@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- <a href="https://your-portfolio-url.com">
+    <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a> -->
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+solve+real+problems;React+%2B+Node+%2B+Java+%7C+always+learning;Currently+open+to+Software+Engineer+roles" alt="Typing SVG" />
+</h3>
 
 ---
 
-## 🍹 About Me
+### 👋 About Me
 
-Before I fell in love with building full-stack applications, **I was a competitive mixologist.** Turns out, designing a perfect cocktail isn't that different from architecting great software. Both require high-quality ingredients, meticulous precision, a deep understanding of how different components interact, and an exceptional final user experience. 
+I'm a software engineer who made the leap into tech through Per Scholas' Java Full-Stack program, and I've been building ever since — from enterprise work at Wells Fargo to internal tools at Topgolf. I care about writing code that's clean, and products that actually feel good to use.
 
-Now, instead of spirits and bitters, my main ingredients are **Java, Spring Boot, and React**. I love building robust backend systems, smooth user interfaces, and solving complex architectural puzzles.
+Off the clock, I moonlight as an amateur mixologist 🍸 — turns out debugging a cocktail recipe and debugging a stack trace require the same patience.
 
----
-
-* 💬 **Ask me about:** Java ecosystem quirks, relational vs. non-relational database design, or how to make a world-class Old Fashioned.
+**Currently:** open to full-stack / software engineering opportunities. If you're hiring or just want to talk shop, my inbox is open. 👆
 
 ---
 
-## 🧰 My Bar Cart (Languages & Tools)
+### 🛠️ What I'm Building Right Now
 
-### ☕ Core & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="28"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring" height="28"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" height="28"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" height="28"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" height="28"/>
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| 🐾 **[Off Leash](https://github.com/himynameismoose/off-leash)** | A dog-dating app rebuilt from my college capstone into a full-stack, location-aware web app | React · Vite · Tailwind · Node/Express · Supabase (PostGIS) |
+| 🏥 **Olympia Allergy & Immunology** | A clinic website with patient messaging integration, built for a real client | HTML/CSS/JS · Netlify |
 
-### 🎨 Frontend & UI
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="28"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28"/>
-</p>
+---
 
-### 💾 Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="28"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="28"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" height="28"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" height="28"/>
-</p>
+### 💻 Tech Stack
 
-### 🚀 DevOps, Testing & Mobile
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="28"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" height="28"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" height="28"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" height="28"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<!-- <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himynameismoose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himynameismoose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himynameismoose&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+<!-- <p align="center">
+  <img src="https://capsule-render.com/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+</p> -->
