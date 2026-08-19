@@ -21,7 +21,9 @@
 
 ---
 
-### 👋 About Me
+### 👋 Hi, my name is Moose!
+
+Actually, it's Mershelle but you can call me Moose 🫎
 
 I'm a software engineer who made the leap into tech through Per Scholas' Java Full-Stack program, and I've been building ever since — from enterprise work at Wells Fargo to internal tools at Topgolf. I care about writing code that's clean, and products that actually feel good to use.
 
